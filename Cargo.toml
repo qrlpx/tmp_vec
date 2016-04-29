@@ -1,0 +1,9 @@
+[package]
+name = "tmp_vec"
+version = "0.0.1"
+authors = ["qrlpx <>"]
+
+repository = "https://github.com/qrlpx/tmp_vec"
+
+license = "CC0-1.0"
+
