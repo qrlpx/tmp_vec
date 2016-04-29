@@ -3,6 +3,7 @@ name = "tmp_vec"
 version = "0.0.1"
 authors = ["qrlpx <>"]
 
+description = "Utility to avoid unnecessary allocations for lifetime-bound Vec's."
 repository = "https://github.com/qrlpx/tmp_vec"
 
 license = "CC0-1.0"
